@@ -1,0 +1,479 @@
+@media (max-width: 575.98px) {
+    .h1 {
+        font-size: 60px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    } 
+
+    .formulario {
+        display: flex;
+        flex-direction: column; 
+        width: 40vh; 
+        margin-right: 50px;
+    }
+
+    .ppantalla {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    #pantallaindex {
+        display: flex;
+        flex-direction: column;
+    } 
+
+  .izquierda {
+      height: 50vh;
+      width: 100vh;
+  } 
+
+  .derecha {
+      height: 50vh;
+      width: 100vh;
+  }
+
+    .izquierdaindex {
+        background: #f8f8f8;
+        height: 50vh;
+        width: 100vh;
+    }
+
+    .derechaindex {
+        height: 50vh;
+        width: 100vh;
+    }
+
+    .izquierdaindex2 {
+        width: 100vh;
+        height: 60vh;
+    }
+
+    .derechaindex2 {
+        height: 100vh;
+        width: 100vh;
+       
+    }
+
+    .pindex {
+        font-size: 30px; 
+        margin-left: 30px;
+        
+    } 
+
+    .h2 {
+        font-size: 30px;
+        margin-left: 30px;
+        
+    }
+
+    #pantallaempresa {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .h1empresa {
+        font-size: 40px;
+        margin-bottom: 20px;
+        margin-top: 20px; 
+        margin-left: 20px;
+    }
+
+    .izquierdaempresa {
+        background: #f8f8f8;
+        height: 100vh;
+        width: 100vh;
+    }
+
+    .derechaempresa {
+        height: 100vh;
+        width: 100vh;
+    } 
+
+   .nosotros {
+       margin-left: 30px;
+   } 
+
+   .margenizq {
+       margin-left: 35px;
+   }
+
+   .pempresa2 {
+       margin-left: 35px;
+   }
+
+   footer {
+       margin-left: 35px;
+   }
+
+   .izquierdaservicios {
+       background: #1e2c35;
+       height: 100vh;
+       width: 100vh;
+   }
+
+   .derechaservicios {
+       width: 100vh;
+       height: 100vh;
+   } 
+
+   #pantallaservicios {
+       display: flex;
+       flex-direction: column;
+   }
+
+   .izquierdaservicios2 {
+       height: 70vh;
+       width: 100vh;
+   }
+
+   .derechaservicios2 {
+       height: 70vh;
+       width: 100vh;
+   } 
+
+   .izquierdaservicios3 { 
+    height: 70vh;
+    width: 100vh;
+   }
+
+   .derechaservicios3 {
+       height: 70vh;
+       width: 100vh;
+   } 
+
+   .h2servicios {
+       font-size: 50px;
+   }
+
+   body {
+       background: #f8f8f8;
+   }
+
+} 
+
+@media (max-width: 767.98px) {
+
+    .h1 {
+        font-size: 60px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    } 
+
+    .ppantalla {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    #pantallaindex {
+        display: flex;
+        flex-direction: column;
+    } 
+
+    .izquierda {
+        height: 100vh;
+        width: 100vh;
+    }
+
+    .derecha {
+        height: 100vh;
+        width: 100vh;
+    }
+
+
+    .izquierdaindex {
+        background: #f8f8f8;
+        height: 55vh;
+        width: 100vh;
+    }
+
+    .derechaindex {
+        height: 100vh;
+        width: 100vh;
+    }
+
+    .izquierdaindex2 {
+        width: 100vh;
+        height: 100vh;
+    }
+
+    .derechaindex2 {
+        width: 100vh;
+        height: 60vh;
+    }
+
+    .pindex {
+        font-size: 20px; 
+        margin-left: 30px;
+       
+    } 
+
+    .h2 {
+        font-size: 30px;
+        margin-left: 30px;
+        
+    }
+
+    #pantallaempresa {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .h1empresa {
+        font-size: 60px;
+        margin-bottom: 20px;
+        margin-top: 20px
+    }
+
+    .izquierdaempresa {
+        background: #f8f8f8;
+        height: 100vh;
+        width: 100vh;
+    }
+
+    .derechaempresa {
+        height: 100vh;
+        width: 100vh;
+    } 
+
+   .nosotros {
+       margin-left: 30px;
+   } 
+
+   .margenizq {
+       margin-left: 35px;
+   }
+
+   .pempresa2 {
+       margin-left: 50px;
+   }
+
+   footer {
+       margin-left: 35px;
+   }
+
+   .izquierdaservicios {
+    background: #1e2c35;
+    height: 100vh;
+    width: 100vh;
+}
+
+.derechaservicios {
+    width: 100vh;
+    height: 100vh;
+} 
+
+#pantallaservicios {
+    display: flex;
+    flex-direction: column;
+}
+
+.izquierdaservicios2 {
+    height: 70vh;
+    width: 100vh;
+}
+
+.derechaservicios2 {
+    height: 70vh;
+    width: 100vh;
+} 
+
+.izquierdaservicios3 { 
+ height: 70vh;
+ width: 100vh;
+}
+
+.derechaservicios3 {
+    height: 70vh;
+    width: 100vh;
+} 
+
+.h2servicios {
+    font-size: 50px;
+}
+
+body {
+    background: #f8f8f8;
+}
+
+
+}
+
+@media (max-width: 991.98px) {
+
+    .boton {
+        margin-left: 30px;
+    }
+
+    .h2servicios {
+
+        font-size: 50px;
+
+    }
+
+    .h2servicios2 {
+        font-size: 50px;
+    }
+
+    .izquierdaservicios3 {
+        height: 100vh;
+
+    }
+
+    .derechaservicios3 {
+        height: 100vh;
+    }
+
+    footer {
+        margin-left: 30px;
+    }
+
+    .izquierda {
+        height: 130vh;
+    }
+
+    .derecha {
+        height: 130vh;
+    }
+
+    .h2 {
+        font-size: 40px;
+    }
+
+    .pindex {
+        font-size: 23px;
+        margin-left: 30px;
+    }
+
+    .izquierdaindex {
+        height: 105vh;
+    }
+
+    .derechaindex {
+        height: 105vh;
+    }
+
+    .derechaindex2 {
+        height: 105vh;
+    }
+
+    .izquierdaindex2 {
+        height: 109vh;
+    }
+
+    .h1empresa {
+        font-size: 40px;
+    }
+
+    .pempresa2 {
+        font-size: 25px;
+        margin-left: 20px;
+    } 
+
+    .izquierdaempresa {
+        height: 105vh;
+    }
+
+    .derechaempresa {
+        height: 105vh;
+    }
+
+    .nosotros {
+        margin-left: 20px;
+
+    } 
+
+    .margenizq {
+        margin-left: 20px;
+    }
+
+}
+
+@media (max-width: 1199.98px) {
+
+    .h1empresa {
+        font-size: 50px;
+        margin-left: 35px;
+    }
+
+    .formulario {
+        display: flex;
+        flex-direction: column; 
+        width: 50vh; 
+        margin-right: 50px;
+    }
+
+    
+
+    .izquierdaempresa {
+        height: 105vh;
+    } 
+
+    .derechaempresa {
+        height: 105vh;
+    }
+
+    body {
+        background: #f8f8f8;
+    }
+    
+    .izquierda {
+        height: 105vh;
+        
+    }
+
+    .derecha {
+        height: 105vh;
+        
+    }
+
+    .h2 {
+        font-size: 40px;
+    } 
+
+    .pindex {
+        font-size: 25px;
+        margin-left: 30px;
+    } 
+
+    .izquierdaindex {
+        height: 105vh;
+    }
+
+    .derechaindex {
+        height: 105vh;
+    }
+
+    footer {
+        margin-left: 30px;
+    } 
+
+    .margenizq {
+        margin-left: 35px;
+    } 
+
+    .nosotros {
+        margin-left: 35px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

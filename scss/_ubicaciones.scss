@@ -1,0 +1,52 @@
+/* Margenes */ 
+
+.margenizq {
+    margin-left: 85px;
+}
+
+.margender {
+    margin-right: 100px;
+}
+
+.margensuperior {
+    padding-top: 35px;
+}
+
+.margeninferior {
+    margin-bottom: 35px;
+}
+
+/* Espaciado */ 
+
+.espaciado {
+    margin-bottom: 10px;
+}
+
+.espacioizq {
+    margin-left: 25px;
+}
+
+.espacioder {
+    margin-right: 50px;
+}
+
+/* Alineaciones */ 
+
+.centrartexto {
+    text-align: center;
+}
+
+.derechatexto {
+    text-align: right;
+} 
+
+/* Flex */ 
+
+.ordeninicial {
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    justify-content: center;
+    margin: auto;
+    font-weight: bold;
+}

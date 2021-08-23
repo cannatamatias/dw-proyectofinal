@@ -1,0 +1,220 @@
+/* Pantalla Dividida Index */ 
+
+.izquierda {
+    background: #566fd4;
+    height: 100vh;
+    width: 50%;
+}
+
+.derecha {
+    background: url(../imagenes_index/mockupbotones.jpg); 
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100vh;
+}
+
+#pantallaindex {
+    display: flex;
+}
+
+.h1 {
+    font-size: 60px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 80px;
+    color: #f8f8f8;
+} 
+
+.h2 {
+    font-size: 60px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #1e2c35;
+}
+
+.ppantalla {
+    font-size: 30px;
+    line-height: 50px;
+    width: 90%;
+    margin: auto;
+} 
+
+.pindex {
+    font-size: 30px;
+    line-height: 50px;
+    width: 60%;
+    margin-left: 50px;
+}
+
+.izquierdaindex {
+    background: #f8f8f8;
+    height: 80vh;
+    width: 50%;
+}
+
+.derechaindex {
+    background: url(../imagenes_index/indexxx.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    width: 50%;
+}
+
+.izquierdaindex2 {
+    background: url(../imagenes_index/diseño.index.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 50%;
+}
+
+.derechaindex2 {
+    background: #f8f8f8;
+    height: 100vh;
+    width: 50%;
+}
+
+/* Pantalla Dividida Servicios */ 
+
+.izquierdaservicios {
+    background: #1e2c35;
+    height: 100vh;
+    width: 50%;
+}
+
+.derechaservicios {
+    background: url(../imagenes_servicios/fondo.index.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100vh;
+}
+
+#pantallaservicios {
+    display: flex;
+}
+
+.izquierdaservicios2 {
+    background: url(../imagenes_servicios/celu.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 70vh;
+}
+
+.derechaservicios2 {
+    background: #f8f8f8;
+    height: 70vh;
+    width: 50%;
+}
+
+.pservicios2 {
+    font-size: 30px;
+    line-height: 50px;
+    width: 90%;
+    margin: auto;
+    color: #384d5f;
+} 
+
+.h2servicios {
+    font-size: 60px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: #384d5f;
+}
+
+.h2servicios2 {
+    font-size: 60px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: #384d5f;
+} 
+
+.pservicios {
+    font-size: 30px;
+    line-height: 50px;
+    width: 90%;
+    margin: auto;
+}
+
+.izquierdaservicios3 {
+    background: #f8f8f8;
+    height: 70vh;
+    width: 50%;
+}
+
+.derechaservicios3 {
+    background: url(../imagenes_servicios/foto.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 70vh;
+}
+
+.pservicios3 {
+    font-size: 30px;
+    line-height: 50px;
+    width: 90%;
+    margin: auto;
+}
+
+/* Pantalla Dividida Empresa */
+
+.izquierdaempresa {
+    background: #f8f8f8;
+    height: 80vh;
+    width: 50%;
+}
+
+.derechaempresa {
+    background: url(../imagenes_empresa/principal.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    width: 50%;
+}
+
+#pantallaempresa {
+    display: flex;
+}
+
+.nosotros {
+    margin-top: 40px;
+    color: #384d5f;
+    padding: 5px;
+    margin-left: 40px;
+    font-size: 25px;
+}
+
+.h1empresa {
+    font-size: 60px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #384d5f;
+}
+
+.pemepresa {
+    font-size: 30px;
+    line-height: 50px;
+    width: 90%;
+    margin: auto;
+    margin-left: 40px;
+}
+
+.pempresa2 {
+    font-size: 30px;
+    line-height: 50px;
+    width: 75%;
+    margin: auto;
+    margin-left: 40px;
+}
